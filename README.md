@@ -4,7 +4,7 @@
 
 - <b>Data Analysis with Python</b>
   - [Exploratory Data Analysis with Python](https://github.com/Jenom75/Python-Projects/blob/main/Healthcare%20Dataset-by-paul-ibrahim-jenom.ipynb)
-  - [Web Scraping and EDA with Python](https://github.com/Jenom75/Python-Web-scraping-and-EDA-by-Ibrahim-Paul-Jenom)
+  - [Web Scraping and EDA with Python](https://github.com/Jenom75/Python-Web-scraping-and-EDA-by-Ibrahim-Paul-Jenom/blob/main/Paul_Ibrahim_Jenom_Largest_companies_in_the_United_States_by_Revenue_(2024).ipynb)
 - <b>Data Analysis with R</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Microsoft Powerbi</b>

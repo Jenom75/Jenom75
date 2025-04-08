@@ -6,18 +6,18 @@
   - [Exploratory Data Analysis with Python](https://github.com/Jenom75/Python-Projects/blob/main/Healthcare%20Dataset-by-paul-ibrahim-jenom.ipynb)
   - [Web Scraping and EDA with Python](https://github.com/Jenom75/Python-Web-scraping-and-EDA-by-Ibrahim-Paul-Jenom/blob/main/Paul_Ibrahim_Jenom_Largest_companies_in_the_United_States_by_Revenue_(2024).ipynb)
 - <b>Data Analysis with R</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Heathcare Data Analysis](https://github.com/Jenom75/Other-Projects/blob/main/R%20%20GROUP%20PRESENTATION(2).R) 
 - <b>Microsoft Powerbi</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Adventure Works Sales Report](https://app.powerbi.com/groups/6eab2570-7c4f-4c04-a2b8-fc46c0b9ca45/reports/18a75105-0f08-4bd7-91d2-d71bf1d13c3d/f948868d3f284db1b48a?experience=power-bi&clientSideAuth=0)
+  - [Healthcare Report](https://app.powerbi.com/groups/6eab2570-7c4f-4c04-a2b8-fc46c0b9ca45/reports/ad87250e-53ca-4830-af35-a6f70d9ae968/c6503d088d86cb209909?experience=power-bi&clientSideAuth=0)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Microsoft Excel</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [WHO WASH Report](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Querying SQL Database](https://github.com/Jenom75/Other-Projects/blob/main/ibrahim%20paul%20jenom-sql%20assignment.sql)
 
 <h2>📺 Certifications</h2>
 

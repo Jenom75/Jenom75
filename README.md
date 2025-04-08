@@ -26,6 +26,7 @@
 - [Intermediate R](https://www.datacamp.com/completed/statement-of-accomplishment/course/69cea9080656e4f41ea47e149838e51f75130f1d)
 - [Data Modeling in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/d2a80d938ca988684bdf944d2494c59824d839fe)
 - [Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1eb8c78e98f29d6e46076f329615d0c97d98f68)
+- [Understanding Data Engineering](https://www.datacamp.com/completed/statement-of-accomplishment/course/b9bb5a95d50d3a4b87fd85b3eee1c6c76d0e735b)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -21,11 +21,11 @@
 
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Introduction to Azure](https://www.datacamp.com/completed/statement-of-accomplishment/course/5935153c662d3e42c8073fe7c216c341081e7005)
+- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/35ded61f2a1258c87ec2ef46e2061f0b6694e4e6)
+- [Intermediate R](https://www.datacamp.com/completed/statement-of-accomplishment/course/69cea9080656e4f41ea47e149838e51f75130f1d)
+- [Data Modeling in Power BI](https://www.datacamp.com/completed/statement-of-accomplishment/course/d2a80d938ca988684bdf944d2494c59824d839fe)
+- [Data Manipulation in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/b1eb8c78e98f29d6e46076f329615d0c97d98f68)
 
 <h2> 🤳 Connect with me:</h2>
 
